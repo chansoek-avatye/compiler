@@ -1,0 +1,4 @@
+*.out
+complier/
+.DS_Store
+__pycache__/
